@@ -1,0 +1,2 @@
+# KURS
+Bu kurs icindir
